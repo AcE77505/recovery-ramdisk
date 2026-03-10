@@ -1,0 +1,4 @@
+name=
+cmdline=androidboot.hardware=qcom msm_rtb.filter=0x237 ehci-hcd.park=3 lpm_levels.sleep_disabled=1 androidboot.bootdevice=7824900.sdhci slub_min_objects=12 unmovable_isolate1=2:192M,3:224M,4:256M androidboot.selinux=enforcing buildvariant=user
+os_version=10.0.0
+os_patch_level=2020-11

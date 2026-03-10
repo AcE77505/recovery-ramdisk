@@ -1,0 +1,35 @@
+/*
+ * Copyright (c) Huawei Technologies Co., Ltd. 2019-2019. All rights reserved.
+ * Description: define update ui resource types.
+ * Author: zhangzenghui
+ * Create: 2019-01-28  notice : FILE_HEAD_LINE_NUM in the code : 6
+ */
+安装升级包...,  // UPDATE_MSG_INSTALL
+打开升级包...,  // UPDATE_MSG_INSTALL_OPEN_PKG
+校验升级包...,  // UPDATE_MSG_INSTALL_VERIFY_PKG
+升级包不存在,  // UP_MSG_SD_PKG_NOT_EXIST
+请重新下载安装升级包,  // UP_MSG_SD_UDP_PKG_COPY
+电量不足，且没有插充电器,  // UP_MSG_SD_LOW_BATTERY
+请连接充电器升级,  // UP_MSG_SD_UDP_CHARGER
+升级包校验失败,  // UP_MSG_SD_PKG_VERIFY_FAIL
+请重新拷贝升级包升级,  // UP_MSG_SD_UDP_PKG_COPY
+升级包内容校验失败,  // UP_MSG_SD_PKG_CONT_VERIFY_FAIL
+升级包版本号信息校验失败,  // UP_MSG_SD_VER_CHK_FAIL
+请重新下载关联升级包升级,  // UP_MSG_SD_DLOAD_RELAT_PKG
+升级包CRC校验失败,  // UP_MSG_SD_PKG_CRC_VERIFY_FAIL
+升级包和当前运营商定制信息不匹配,  // UP_MSG_SD_VENDCOUNTRY_NOT_MATCH
+升级包不存在,  // UP_MSG_OTA_PKG_NOT_EXIST
+请重新下载安装升级包,  // UP_MSG_OTA_DLOAD_AGAIN
+升级包校验出错,  // UP_MSG_OTA_SIGN_VERIFY_FAIL
+升级包校验出错,  // UP_MSG_OTA_SIGN_VERIFY_FAIL
+升级包文件校验失败,  // UP_MSG_OTA_PATCH_CHK_FAIL
+请下载最新全包升级,  // UP_MSG_OTA_DLOAD_FULL_PKG
+差分升级文件失败,  // UP_MSG_OTA_APPLY_PATCH_FAIL
+建议进入erecovery模式下载全包升级,  // UP_MSG_OTA_ERECOVEY_UPD
+解压升级包失败,  // UP_MSG_OTA_APP_UNZIP_FAIL
+升级镜像失败,  // UP_MSG_OTA_APP_UPD_FAIL
+加密中断,  // UP_MSG_ENCRYPTION_DATA_FAIL
+请2分钟内插入OTG/SD卡或者检查升级包,  // UP_MSG_SD_OTG_SD_INSERT
+安全策略禁止存储卡升级,  // UP_MSG_SD_SEC_POLICY_PROHIBIT
+准备升级环境...,  // UPDATE_MSG_INSTALL_RESCUE
+协处理器升级失败,  // UP_MSG_OTA_EXT_SENSORHUB_FAIL
